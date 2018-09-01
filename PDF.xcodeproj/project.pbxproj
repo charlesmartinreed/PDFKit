@@ -12,6 +12,7 @@
 		8C053A8F213B4D8D0086D222 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C053A8D213B4D8D0086D222 /* Main.storyboard */; };
 		8C053A91213B4D8E0086D222 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C053A90213B4D8E0086D222 /* Assets.xcassets */; };
 		8C053A94213B4D8E0086D222 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C053A92213B4D8E0086D222 /* LaunchScreen.storyboard */; };
+		8C053A9C213B4DB30086D222 /* employee-handbook.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 8C053A9B213B4DB30086D222 /* employee-handbook.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8C053A90213B4D8E0086D222 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8C053A93213B4D8E0086D222 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8C053A95213B4D8E0086D222 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8C053A9B213B4DB30086D222 /* employee-handbook.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "employee-handbook.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				8C053A8B213B4D8D0086D222 /* ViewController.swift */,
 				8C053A8D213B4D8D0086D222 /* Main.storyboard */,
 				8C053A90213B4D8E0086D222 /* Assets.xcassets */,
+				8C053A9B213B4DB30086D222 /* employee-handbook.pdf */,
 				8C053A92213B4D8E0086D222 /* LaunchScreen.storyboard */,
 				8C053A95213B4D8E0086D222 /* Info.plist */,
 			);
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8C053A9C213B4DB30086D222 /* employee-handbook.pdf in Resources */,
 				8C053A94213B4D8E0086D222 /* LaunchScreen.storyboard in Resources */,
 				8C053A91213B4D8E0086D222 /* Assets.xcassets in Resources */,
 				8C053A8F213B4D8D0086D222 /* Main.storyboard in Resources */,
